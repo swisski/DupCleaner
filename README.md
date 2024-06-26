@@ -6,20 +6,8 @@ Deep Scanning: Recursively scans the specified directory to find all duplicate f
 SHA-256 Hashing: Uses SHA-256 hashing to ensure accurate detection of duplicates.
 Safe Deletion: Offers a user confirmation before deleting files to prevent accidental data loss.
 
-## Prerequisites
-To run this script, you will need:
-
-Python 3.6 or higher
-Basic knowledge of using the command line interface
-Installation
-No installation is necessary. However, you need to have Python installed on your computer. You can download and install Python from python.org.
-
 ## Usage
-Download the Script
-
 Download duplicate_file_remover.py to your local machine.
-Open Your Command Line Interface
-
-Execute the script by typing:
-$python duplicate_file_remover.py
+Enter the folder you wish to scan
+Run $python3 duplicate_file_remover.py
 Choose whether to delete the duplicates based on the confirmation prompt.
